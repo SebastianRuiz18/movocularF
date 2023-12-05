@@ -1,0 +1,31 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+__pycache__/
+
+# Virtual Environment
+myenv/
+myenv.bak/
+
+# IDE files
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyo
+
+# Other
+*.sqlite3
+*.log
+*.swp
+*.db
+*.DS_Store
